@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UVa 10765 - Doves and Bombs", "UVa 10765 - Doves and Bombs.vcxproj", "{9034B049-AB89-4122-B652-C1F8943BF3B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9034B049-AB89-4122-B652-C1F8943BF3B5}.Debug|x64.ActiveCfg = Debug|x64
+		{9034B049-AB89-4122-B652-C1F8943BF3B5}.Debug|x64.Build.0 = Debug|x64
+		{9034B049-AB89-4122-B652-C1F8943BF3B5}.Debug|x86.ActiveCfg = Debug|Win32
+		{9034B049-AB89-4122-B652-C1F8943BF3B5}.Debug|x86.Build.0 = Debug|Win32
+		{9034B049-AB89-4122-B652-C1F8943BF3B5}.Release|x64.ActiveCfg = Release|x64
+		{9034B049-AB89-4122-B652-C1F8943BF3B5}.Release|x64.Build.0 = Release|x64
+		{9034B049-AB89-4122-B652-C1F8943BF3B5}.Release|x86.ActiveCfg = Release|Win32
+		{9034B049-AB89-4122-B652-C1F8943BF3B5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE50C0CC-1F8C-4855-8A8F-C462E9F9C9AF}
+	EndGlobalSection
+EndGlobal
