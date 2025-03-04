@@ -1,5 +1,5 @@
 # 資料結構作業
-hw1：實作Hash  
+hw1：實作hash  
 hw2：實作priority_queue  
 hw3：實作set(紅黑樹)  
 hw4：UVa題(使用set、map)  
